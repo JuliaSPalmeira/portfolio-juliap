@@ -410,7 +410,7 @@ footer ul li a{
     }
 }
 
-@media(max-width:600px){
+@media( min-width:450px , max-width:600px){
     header #menu-icon{
         display: block;
         cursor: pointer;
